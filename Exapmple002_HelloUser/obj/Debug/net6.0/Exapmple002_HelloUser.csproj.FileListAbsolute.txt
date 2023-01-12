@@ -1,0 +1,15 @@
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\bin\Debug\net6.0\Exapmple002_HelloUser.exe
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\bin\Debug\net6.0\Exapmple002_HelloUser.deps.json
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\bin\Debug\net6.0\Exapmple002_HelloUser.runtimeconfig.json
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\bin\Debug\net6.0\Exapmple002_HelloUser.dll
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\bin\Debug\net6.0\Exapmple002_HelloUser.pdb
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.AssemblyInfo.cs
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.dll
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\refint\Exapmple002_HelloUser.dll
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.pdb
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\Exapmple002_HelloUser.genruntimeconfig.cache
+C:\Users\user\YandexDisk\Домашки GB\1четверть Блок_3_знакомство с программированием\C#\Lesson_1\Lesson\Exapmple002_HelloUser\obj\Debug\net6.0\ref\Exapmple002_HelloUser.dll
